@@ -9,7 +9,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://spotifyplaying.hoggis.vercel.app" alt="Hoggis spotify app" width="350" />](https://open.spotify.com/user/1196579335)
+[<img src="https://spotifyplaying.hoggis.vercel.app/api/spotify-playing" alt="Hoggis spotify app" width="350" />](https://open.spotify.com/user/1196579335)
 
 ### Connect with me:
 
