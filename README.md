@@ -37,14 +37,12 @@
 
 ---
 
-<details>
-  <summary>Recent Github Activity</summary>
-  
+### Recent activity  
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-</details>
+
 
 [linkedin]: https://www.linkedin.com/in/aki-hokkanen-b61ab9137/
 [instagram]: https://www.instagram.com/hokgis/
