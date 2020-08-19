@@ -1,7 +1,7 @@
 ### Hi there, my name is Aki 👋
 
 
-## I'm an aspiring Data Engineer, Boulderer and a Frisbeegolf enthusiast!
+## I'm an aspiring data engineer, boulderer and a frisbeegolf enthusiast!
 
 - 🔭 I’m currently working on a daily basis with Power BI
 - 🌱 I’m currently sharpening my machine learning skills with this [course][udemy]!
